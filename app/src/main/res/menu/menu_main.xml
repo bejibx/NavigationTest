@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuItemNavigate"
+        android:icon="@drawable/ic_blur_circular_black_24dp"
+        android:title="Navigate"
+        app:showAsAction="always" />
+
+</menu>
